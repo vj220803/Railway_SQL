@@ -56,7 +56,7 @@ This project demonstrates a simplified **Railway Booking System** built using SQ
 ---
 
 ## ER Diagram
-
+![Image](https://github.com/vj220803/Railway_SQL/blob/main/Railway%20ER%20Diagram.PNG)
 
 ## Query List (Expanded)
 
