@@ -58,7 +58,7 @@ This project demonstrates a simplified **Railway Booking System** built using SQ
 ## ER Diagram
 ![Image](https://github.com/vj220803/Railway_SQL/blob/main/Railway%20ER%20Diagram.PNG)
 
-## Query List (Expanded)
+## Query List 
 
 | No  | Query Description                                          |
 | --- | ---------------------------------------------------------- |
@@ -80,16 +80,6 @@ This project demonstrates a simplified **Railway Booking System** built using SQ
 
 ---
 
-## ER Diagram (Text Overview)
-
-```
-[train]         [passenger]
-   │                 │
-   │                 │
-    └────< train_passenger >────┘
-            (M:N relationship)
-```
-
 ### Cardinality:
 
 * **train 1 : N train\_passenger**
@@ -100,7 +90,8 @@ This project demonstrates a simplified **Railway Booking System** built using SQ
 ## Author
 
 **Vijayan Naidu**
-M.Sc. Data Science @ Fergusson College
+M.Sc. Data Science
+Fergusson College(Autonomous)
 
 ---
 
